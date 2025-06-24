@@ -78,7 +78,3 @@ pip install numpy pandas scikit-learn gensim nltk torch tqdm matplotlib seaborn 
 
 - Dataset provided by Kaggle.
 - Thanks to open-source tools such as scikit-learn, gensim, and transformers.
-
----
-
-If you need further customization or additional content, please let me know! 
